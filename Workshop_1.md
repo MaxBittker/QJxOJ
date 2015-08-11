@@ -28,7 +28,9 @@ some sort of vocab activity? would this be aweful? server/http request/html/css/
 
 ######Logistics:
 Day: 30th, a Sunday? 
+
 Time: ???
+
 Food: cold salads, pitas, hummus, tea? $? 
 
 ######Future Topics:
