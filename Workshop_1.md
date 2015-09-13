@@ -12,8 +12,8 @@ Workshop_1
 
 Share+discuss some inspirational pieces of innovative story telling
  - podcasts (Serial, Radiotopia.fm, 99pi, Radiolab, TAL, Vinyl Cafe, Wiretap)
- - live news dissemination channels (related examples: Periscope, Twitch)
- - data, visualizations, the upshot (Five Thirty Eight and Nate Silver)
+ - live news dissemination channels (Twitter, Periscope, Twitch)
+ - data, visualizations (the Upshot, Five Thirty Eight and Nate Silver)
  - storify and the hacks/hackers connection
  - newsdiffs
  - way more examples prepared (help!)
@@ -23,17 +23,25 @@ Low - energy session to HTML&CSS skills and build a personal website/event page/
  - then everyone else writes their own page, experienced people help out their neighbors.
  - ideally we help everyone get these pages onto github pages, and we make a list of links for everyone to peruse and feel proud <3
 
+Discuss topics we might cover this year.  
+ - Security
+ - command-line
+ - more js context
+ - mapping
+ - data+charts
+ - first responding
+ - task automation 
+ - bots/automated wikipedia editing/text generation
+
 Discussion about the modern web, the code that runs it, open source 
-Some sort of quick vocab activity? server/http request/html/css/js/style/static site...? Maybe better for another day 
+<!-- Some sort of quick vocab activity? server/http request/html/css/js/style/static site...?   -->
 
 Invite to OpenJo slack channel.
 
 ######Logistics:
-Day: 14th, a Sunday
+Day: 13th, a Saturday
 
 Time: ???
 
 Food: cold salads, pitas, hummus, tea, carrots, __________. 
 
-######Future Topics:
-Security/more js context/task automation/mapping/data+charts/twitter bots/text generation+!
