@@ -57,10 +57,16 @@
                     <iframe src="http://hackertyper.net" style="width: 100%; height: 400px "></iframe>
                 </section>
                 <section>
+                    <img class='no-border' data-src="http://www.computerhistory.org/timeline/media/img/timeline_networking.web_1964_sabre.jpg">
+                </section>
+                <section>
                     <img class='no-border' data-src="https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e15/11357726_863039310400144_1648772527_n.jpg">
                 </section>
                 <section>
-                    <h1>very Powerful,<br> very terrible</h1>
+                    <img class='no-border' data-src="http://img1.wikia.nocookie.net/__cb20120218044035/adventuretimewithfinnandjake/images/d/d5/Wizard_Thief.png">
+                </section>
+                <section>
+                    <h1>very Powerful,<br> kind of terrible</h1>
                 </section>
                 <section>
                     learning to use a computer via the terminal comes down memorizing lots of random (and some interesting) bullshit
@@ -97,12 +103,17 @@
                 <section>
                     some programs take inputs when you invoke them:
                     <pre><code data-trim>banner "QJ"</code></pre>
-                    <pre><code data-trim>say "i'm a robot"</code></pre> flags are extra options that some programs take:
-                    <pre><code data-trim>say -v "Albert" "your text here"</code></pre> this example uses the -v flag (voice), the text to be spoken, and the -o flag to specify output file
-                    <pre><code data-trim>say -v "Whisper" "going into a file" -o recording.a1ff </code></pre> <small>"Agnes" "Kathy" "Princess" "Vicki" "Victoria" "Alex" "Bruce" "Fred" "Junior" "Ralph"<br>"Albert" "Bad News" "Bahh" "Bells" "Boing" "Bubbles" "Cellos" "Deranged" "Good News" "Hysterical" "Pipe Organ" "Trinoids" "Whisper" "Zarvox"</small>
                 </section>
                 <section>
-                    <h3> navigation</h3> ls: "List" prints a list of folders or 'directories'
+                    <pre><code data-trim>say "i'm a robot"</code></pre> flags are extra options that some programs take:
+                    <pre><code data-trim>say -v "Albert" "your text here"</code></pre> <small>"Agnes" "Kathy" "Princess" "Vicki" "Victoria" "Alex" "Bruce" "Fred" "Junior" "Ralph"<br>"Albert" "Bad News" "Bahh" "Bells" "Boing" "Bubbles" "Cellos" "Deranged" "Good News" "Hysterical" "Pipe Organ" "Trinoids" "Whisper" "Zarvox"</small>
+                    <br>
+                    <br> this example uses the -v flag (voice), the text to be spoken, and the -o flag to specify output file
+                    <pre><code data-trim>say -v "Whisper" "going into a file" -o recording.aiff </code></pre>
+                </section>
+                <section>
+                    <h3> navigation <i class="fa fa-compass"></i>
+</h3> ls: "List" prints a list of folders or 'directories'
                     <pre><code data-trim>ls
  Desktop Downloads Movies Phone Public
  Documents Library Music Pictures Sites</code></pre>
@@ -114,14 +125,17 @@
                     </div>
                 </section>
                 <section>
-                    <h3> opening files</h3> cat: "concatenate..." give it a file name from your current folder, and it will print that file's contents to the terminal
+                    <h3> interacting with files</h3> 
+                    cat: "con<b>cat</b>enate..." give it a file name from your current folder, and it will print that file's contents to the terminal
                     <pre><code data-trim>cat examplefile.txt
  This is the text that was in that file!
  if the file was non-text format, it will 
  include a lot of random gibberish. 
  </code></pre>
-                    <br>
-                    <div class='fragment'>
+                    <img class='no-border' data-src="http://4.bp.blogspot.com/-oLZbxd6dIVI/VX9PtiIKbkI/AAAAAAAAAzM/IBJpUxemn0M/s1600/85504626_320_n.jpg"><br>
+                </section>
+                <section>
+                    <div>
                         open: give a file or directory to open, and it will open it with the default program for that file type
                         <pre><code data-trim>open somefile.mp3 </code></pre>
                         <pre><code data-trim>open Downloads </code></pre>
@@ -200,8 +214,7 @@ Technical contact:
                         <li>
                             -o: output that files to a place, in this case /usr/bin/, a special folder for programs </li>
                         <pre><code data-trim>sudo curl https://yt-dl.org/downloads/2015.10.24/youtube-dl 
--o /usr/bin/youtube-dl -k</code></pre>
-                        (all one line)
+-o /usr/bin/youtube-dl -k</code></pre> (all one line)
                         <li> chmod: "Change Mode" set a file to be seen as a program </li>
                     </ul>
                     <pre><code data-trim>sudo chmod a+rx /usr/bin/youtube-dl</code></pre>
@@ -217,7 +230,7 @@ Technical contact:
             </section>
             <section>
                 <section>
-                <h3>
+                    <h3>
 
                 Git: powerful version control<br>
                 Homebrew: App-store, for your command line<br>
